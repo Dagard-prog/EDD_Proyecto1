@@ -24,7 +24,7 @@ type Mensaje struct {
 }
 
 func inicial(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Funcionan EDD")
+	fmt.Fprintf(w, "Funcionaasfssdgdsgsdafan2212 EDD")
 }
 
 func agregar(w http.ResponseWriter, r *http.Request) {
